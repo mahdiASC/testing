@@ -1,3 +1,4 @@
+
 import copy
 def answer(n):
     outcome = allPoss(n,n-1)
